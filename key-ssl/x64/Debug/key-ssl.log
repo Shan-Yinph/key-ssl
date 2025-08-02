@@ -1,0 +1,10 @@
+﻿  key-ssl.cpp
+E:\VS user code\key-ssl\key-ssl.cpp(91,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(92,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(142,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(143,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(192,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(193,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(253,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS user code\key-ssl\key-ssl.cpp(284,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  key-ssl.vcxproj -> E:\VS user code\key-ssl\x64\Debug\key-ssl.exe
