@@ -150,3 +150,9 @@ key-ssl/
 ## 贡献指南
 
 如果你有好的想法或改进，欢迎提交Issue和Pull Request来一起完善这个项目！
+
+## 感谢
+
+衷心感谢 **YanJuan** 在本项目的构思与早期开发中提供的指导和技术支持。他的经验和见解为这个项目奠定了重要基础。
+
+- [YanJuan](https://github.com/triangleXXX)

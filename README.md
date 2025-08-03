@@ -150,3 +150,9 @@ Encryption algorithm, C++, OpenSSL, MD5, SHA256, DES, RSA, AES, Information Secu
 ## Contribution Guide
 
 If you have any ideas or improvements, please feel free to submit Issues and Pull Requests to help improve this project!
+
+## Thanks
+
+I am sincerely grateful to **YanJuan** for his guidance and technical support in the conception and early development of this project. His experience and insights have laid an important foundation for this project.
+
+- [YanJuan](https://github.com/triangleXXX)
