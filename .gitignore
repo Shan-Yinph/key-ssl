@@ -1,0 +1,29 @@
+# Windows系统文件
+*.ini
+Thumbs.db
+
+# 编译生成的文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.recipe
+*.idb
+*.lastbuildstate
+*.tlog
+*.vcxproj.FileListAbsolute.txt
+
+# 文件夹
+.vs/
+x64/
+key-ssl/x64/
+
+# Visual Studio相关
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 密钥文件
+*.pem
